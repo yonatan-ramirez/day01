@@ -1,0 +1,8 @@
+div{
+    display: flex;
+    flex-direction: column;
+}
+button{
+    margin: 1em 1em;
+    padding: 1em 1em;
+}
